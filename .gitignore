@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Unnecessary
+__pycache__/
+Record.py
+
+
 # Distribution / packaging
 .Python
 build/
